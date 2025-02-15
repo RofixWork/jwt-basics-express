@@ -61,7 +61,7 @@ Start the server:
 npm start
 ```
 
-The API will run on **[http://localhost:5000](http://localhost:5000)** (or your configured port).
+The API will run on **[http://localhost:8000](http://localhost:8000)** (or your configured port).
 
 ## 🔑 Authentication Flow
 
